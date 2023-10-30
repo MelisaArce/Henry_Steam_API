@@ -12,7 +12,7 @@ VERSION = "/v1"
 
 blue_print = APIRouter(prefix=conf.get(Vars.API_BASE_PATH)+VERSION+URI,tags=["genres"])
 
-@blue_print.get('/genres/{genre}/users/top', response_model=UserAddiction)
+@blue_print.get('/{genre}/users/top', response_model=UserAddiction)
 def get_top_user(genre):
     user_addiction = user_service.most_addictive(genre)
     return get_valid_rest_object(user_addiction)
