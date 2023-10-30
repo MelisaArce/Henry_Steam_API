@@ -1,0 +1,45 @@
+FROM python:3.9-slim
+
+ARG TAG=local
+
+WORKDIR /usr/src/
+
+
+# VARIABLES PREDEFINIDAS
+ENV HENRY_STEAM_API_VERSION=${TAG}
+
+ENV HENRY_STEAM_API_PYTHON_HOST=0.0.0.0
+ENV HENRY_STEAM_API_PYTHON_PORT=5000
+ENV HENRY_STEAM_API_PYTHON_GUNICORN_WORKERS=1
+ENV HENRY_STEAM_API_PYTHON_GUNICORN_CONNECTIONS=1000
+ENV HENRY_STEAM_API_PYTHON_NOMBRE_APP=main
+ENV HENRY_STEAM_API_PYTHON_NOMBRE_FUNCION_APP=app
+
+
+# EJECUCION
+CMD gunicorn -k uvicorn.workers.UvicornWorker \
+    -b ${HENRY_STEAM_API_PYTHON_HOST}:${HENRY_STEAM_API_PYTHON_PORT} \
+    --reload \
+    --workers=${HENRY_STEAM_API_PYTHON_GUNICORN_WORKERS} \
+    --worker-connections=${HENRY_STEAM_API_PYTHON_GUNICORN_CONNECTIONS} \
+    ${HENRY_STEAM_API_PYTHON_NOMBRE_APP}:${HENRY_STEAM_API_PYTHON_NOMBRE_FUNCION_APP}
+
+EXPOSE ${HENRY_STEAM_API_PYTHON_PORT}
+
+
+# DEPENDENCIAS
+RUN pip install compile --upgrade pip
+
+COPY ./requirements.txt .
+COPY ./files ./files
+
+RUN pip install -r requirements.txt
+RUN rm requirements.txt
+
+
+# COMPILACION
+COPY ./app ./src/app
+COPY ./main.py ./src
+
+RUN python -m compile -b -f -o ./dist ./src
+RUN mv -f ./dist/src/* .

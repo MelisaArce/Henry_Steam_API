@@ -1,0 +1,8 @@
+# DEPENDENCIAS
+
+fastapi
+gunicorn
+uvicorn
+pandas
+pyarrow
+scikit-learn
