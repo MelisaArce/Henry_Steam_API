@@ -55,8 +55,7 @@ La API proporciona varios endpoints para consultar información. A continuación
    - Docker Compose: [Instrucciones de instalación](https://docs.docker.com/compose/install/)
 3. **Configuración de los dataframes**:
 
-   - Los dataframes de Pandas con los datos necesarios se encuentran en la carpeta "{url_drive}".
-   - Asegúrese de tener acceso a estos dataframes y que estén cargados correctamente en el proyecto.
+   - Los dataframes de Pandas con los datos necesarios se encuentran [aqui](drive.md)
 4. **Ejecución de la API**:
 
    - Ejecute la API utilizando el siguiente comando:
