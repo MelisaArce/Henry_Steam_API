@@ -8,32 +8,32 @@ El proyecto **Henry_Steam_API** es una API construida con [FastAPI](https://fast
 
 La API proporciona varios endpoints para consultar información. A continuación, se detallan los principales endpoints junto con ejemplos de cómo utilizarlos:
 
-### 1. GET /api/v1/developers/top3/
+### 1. GET /api/v1/developers/top3/{year}
 
 - **Descripción**: Devuelve el top 3 de desarrolladores de juegos para un año específico.
 - **Uso**: Ejemplo: `GET /api/v1/developers/top3/2023`
 
-### 2. GET /api/v1/developers//sentiment
+### 2. GET /api/v1/developers/{developer}/sentiment
 
 - **Descripción**: Devuelve la cantidad de comentarios positivos y negativos para una desarrolladora específica.
 - **Uso**: Ejemplo: `GET /api/v1/developers/Valve/sentiment`
 
-### 3. GET /api/v1/developers//history
+### 3. GET /api/v1/developers/{developer}/history
 
 - **Descripción**: Para una desarrolladora determinada, retorna la cantidad de juegos gratuitos y la cantidad total de juegos por año.
 - **Uso**: Ejemplo: `GET /api/v1/developers/Valve/history`
 
-### 4. GET /api/v1/genres//users/top
+### 4. GET /api/v1/genres/{genre}/users/top
 
 - **Descripción**: Para un género de juego específico, retorna el usuario con más horas jugadas y una lista de horas jugadas por año.
 - **Uso**: Ejemplo: `GET /api/v1/genres/action/users/top`
 
-### 5. GET /api/v1/users/
+### 5. GET /api/v1/users/{user_id}
 
 - **Descripción**: Para un usuario específico, retorna la cantidad de juegos que posee, la cantidad de dinero gastado en Steam y el porcentaje de reseñas realizadas.
 - **Uso**: Ejemplo: `GET /api/v1/users/123456`
 
-### 6. GET /api/v1/games//suggest
+### 6. GET /api/v1/games/{item_id}/suggest
 
 - **Descripción**: Para un juego específico, retorna una lista de los 5 juegos recomendados en base a ese juego utilizando un modelo de Machine Learning basado en la similitud de coseno.
 - **Uso**: Ejemplo: `GET /api/v1/games/7890/suggest`
