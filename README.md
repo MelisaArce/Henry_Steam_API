@@ -1,5 +1,8 @@
-# Henry_Steam_API
+# Henry_Steam_API 
 
+![alt text](img/HenryLogo.jpg)
+
+![alt text](img/arquitectura.png)
 ## Descripción
 
 El proyecto **Henry_Steam_API** es una API construida con [FastAPI](https://fastapi.tiangolo.com/) en Python 3.9 que proporciona una interfaz para consultar información sobre usuarios y juegos de la plataforma Steam. Esta API se basa en datos almacenados en dataframes de Pandas y utiliza un modelo de Machine Learning para el endpoint de recomendación de juegos.
