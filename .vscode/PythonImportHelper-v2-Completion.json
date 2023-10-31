@@ -1,0 +1,1504 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "listdir",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "app.config.mapa_variables",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "app.config.mapa_variables",
+        "description": "app.config.mapa_variables",
+        "detail": "app.config.mapa_variables",
+        "documentation": {}
+    },
+    {
+        "label": "ENVIRONMENT_MODE",
+        "importPath": "app.config.mapa_variables",
+        "description": "app.config.mapa_variables",
+        "isExtraImport": true,
+        "detail": "app.config.mapa_variables",
+        "documentation": {}
+    },
+    {
+        "label": "NO_MOSTRAR",
+        "importPath": "app.config.mapa_variables",
+        "description": "app.config.mapa_variables",
+        "isExtraImport": true,
+        "detail": "app.config.mapa_variables",
+        "documentation": {}
+    },
+    {
+        "label": "APP_NAME",
+        "importPath": "app.config.mapa_variables",
+        "description": "app.config.mapa_variables",
+        "isExtraImport": true,
+        "detail": "app.config.mapa_variables",
+        "documentation": {}
+    },
+    {
+        "label": "APP_NAME",
+        "importPath": "app.config.mapa_variables",
+        "description": "app.config.mapa_variables",
+        "isExtraImport": true,
+        "detail": "app.config.mapa_variables",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "INFO",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "ERROR",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "WARNING",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "wraps",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "wraps",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "get_valid_rest_object",
+        "importPath": "app.utils.rest_util",
+        "description": "app.utils.rest_util",
+        "isExtraImport": true,
+        "detail": "app.utils.rest_util",
+        "documentation": {}
+    },
+    {
+        "label": "get_valid_rest_object",
+        "importPath": "app.utils.rest_util",
+        "description": "app.utils.rest_util",
+        "isExtraImport": true,
+        "detail": "app.utils.rest_util",
+        "documentation": {}
+    },
+    {
+        "label": "get_valid_rest_object",
+        "importPath": "app.utils.rest_util",
+        "description": "app.utils.rest_util",
+        "isExtraImport": true,
+        "detail": "app.utils.rest_util",
+        "documentation": {}
+    },
+    {
+        "label": "get_valid_rest_object",
+        "importPath": "app.utils.rest_util",
+        "description": "app.utils.rest_util",
+        "isExtraImport": true,
+        "detail": "app.utils.rest_util",
+        "documentation": {}
+    },
+    {
+        "label": "app.services.developer_service",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "app.services.developer_service",
+        "description": "app.services.developer_service",
+        "detail": "app.services.developer_service",
+        "documentation": {}
+    },
+    {
+        "label": "app.config.configuration",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "app.config.configuration",
+        "description": "app.config.configuration",
+        "detail": "app.config.configuration",
+        "documentation": {}
+    },
+    {
+        "label": "Vars",
+        "importPath": "app.config.vars",
+        "description": "app.config.vars",
+        "isExtraImport": true,
+        "detail": "app.config.vars",
+        "documentation": {}
+    },
+    {
+        "label": "Vars",
+        "importPath": "app.config.vars",
+        "description": "app.config.vars",
+        "isExtraImport": true,
+        "detail": "app.config.vars",
+        "documentation": {}
+    },
+    {
+        "label": "Vars",
+        "importPath": "app.config.vars",
+        "description": "app.config.vars",
+        "isExtraImport": true,
+        "detail": "app.config.vars",
+        "documentation": {}
+    },
+    {
+        "label": "Vars",
+        "importPath": "app.config.vars",
+        "description": "app.config.vars",
+        "isExtraImport": true,
+        "detail": "app.config.vars",
+        "documentation": {}
+    },
+    {
+        "label": "Vars",
+        "importPath": "app.config.vars",
+        "description": "app.config.vars",
+        "isExtraImport": true,
+        "detail": "app.config.vars",
+        "documentation": {}
+    },
+    {
+        "label": "Vars",
+        "importPath": "app.config.vars",
+        "description": "app.config.vars",
+        "isExtraImport": true,
+        "detail": "app.config.vars",
+        "documentation": {}
+    },
+    {
+        "label": "Vars",
+        "importPath": "app.config.vars",
+        "description": "app.config.vars",
+        "isExtraImport": true,
+        "detail": "app.config.vars",
+        "documentation": {}
+    },
+    {
+        "label": "Developer",
+        "importPath": "app.model.developer",
+        "description": "app.model.developer",
+        "isExtraImport": true,
+        "detail": "app.model.developer",
+        "documentation": {}
+    },
+    {
+        "label": "DeveloperSentiments",
+        "importPath": "app.model.developer",
+        "description": "app.model.developer",
+        "isExtraImport": true,
+        "detail": "app.model.developer",
+        "documentation": {}
+    },
+    {
+        "label": "DeveloperHistory",
+        "importPath": "app.model.developer",
+        "description": "app.model.developer",
+        "isExtraImport": true,
+        "detail": "app.model.developer",
+        "documentation": {}
+    },
+    {
+        "label": "Developer",
+        "importPath": "app.model.developer",
+        "description": "app.model.developer",
+        "isExtraImport": true,
+        "detail": "app.model.developer",
+        "documentation": {}
+    },
+    {
+        "label": "DeveloperSentiments",
+        "importPath": "app.model.developer",
+        "description": "app.model.developer",
+        "isExtraImport": true,
+        "detail": "app.model.developer",
+        "documentation": {}
+    },
+    {
+        "label": "DeveloperHistory",
+        "importPath": "app.model.developer",
+        "description": "app.model.developer",
+        "isExtraImport": true,
+        "detail": "app.model.developer",
+        "documentation": {}
+    },
+    {
+        "label": "DeveloperYearlyHistory",
+        "importPath": "app.model.developer",
+        "description": "app.model.developer",
+        "isExtraImport": true,
+        "detail": "app.model.developer",
+        "documentation": {}
+    },
+    {
+        "label": "app.services.game_service",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "app.services.game_service",
+        "description": "app.services.game_service",
+        "detail": "app.services.game_service",
+        "documentation": {}
+    },
+    {
+        "label": "Game",
+        "importPath": "app.model.game",
+        "description": "app.model.game",
+        "isExtraImport": true,
+        "detail": "app.model.game",
+        "documentation": {}
+    },
+    {
+        "label": "Game",
+        "importPath": "app.model.game",
+        "description": "app.model.game",
+        "isExtraImport": true,
+        "detail": "app.model.game",
+        "documentation": {}
+    },
+    {
+        "label": "app.services.user_service",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "app.services.user_service",
+        "description": "app.services.user_service",
+        "detail": "app.services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "UserAddiction",
+        "importPath": "app.model.user",
+        "description": "app.model.user",
+        "isExtraImport": true,
+        "detail": "app.model.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.model.user",
+        "description": "app.model.user",
+        "isExtraImport": true,
+        "detail": "app.model.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.model.user",
+        "description": "app.model.user",
+        "isExtraImport": true,
+        "detail": "app.model.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserAddiction",
+        "importPath": "app.model.user",
+        "description": "app.model.user",
+        "isExtraImport": true,
+        "detail": "app.model.user",
+        "documentation": {}
+    },
+    {
+        "label": "YearlyPlay",
+        "importPath": "app.model.user",
+        "description": "app.model.user",
+        "isExtraImport": true,
+        "detail": "app.model.user",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "app.utils.logger_util",
+        "description": "app.utils.logger_util",
+        "isExtraImport": true,
+        "detail": "app.utils.logger_util",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "app.utils.logger_util",
+        "description": "app.utils.logger_util",
+        "isExtraImport": true,
+        "detail": "app.utils.logger_util",
+        "documentation": {}
+    },
+    {
+        "label": "AppException",
+        "importPath": "app.model.exception",
+        "description": "app.model.exception",
+        "isExtraImport": true,
+        "detail": "app.model.exception",
+        "documentation": {}
+    },
+    {
+        "label": "AppException",
+        "importPath": "app.model.exception",
+        "description": "app.model.exception",
+        "isExtraImport": true,
+        "detail": "app.model.exception",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidTokenException",
+        "importPath": "app.model.exception",
+        "description": "app.model.exception",
+        "isExtraImport": true,
+        "detail": "app.model.exception",
+        "documentation": {}
+    },
+    {
+        "label": "AppException",
+        "importPath": "app.model.exception",
+        "description": "app.model.exception",
+        "isExtraImport": true,
+        "detail": "app.model.exception",
+        "documentation": {}
+    },
+    {
+        "label": "app.services.pandas_service",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "app.services.pandas_service",
+        "description": "app.services.pandas_service",
+        "detail": "app.services.pandas_service",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "module_from_spec",
+        "importPath": "importlib.util",
+        "description": "importlib.util",
+        "isExtraImport": true,
+        "detail": "importlib.util",
+        "documentation": {}
+    },
+    {
+        "label": "spec_from_file_location",
+        "importPath": "importlib.util",
+        "description": "importlib.util",
+        "isExtraImport": true,
+        "detail": "importlib.util",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "zipfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "make_directory_if_not_exists",
+        "importPath": "app.utils.file_util",
+        "description": "app.utils.file_util",
+        "isExtraImport": true,
+        "detail": "app.utils.file_util",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "registrar_blue_prints",
+        "importPath": "app.utils.blueprint_util",
+        "description": "app.utils.blueprint_util",
+        "isExtraImport": true,
+        "detail": "app.utils.blueprint_util",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "get",
+        "kind": 2,
+        "importPath": "app.config.configuration",
+        "description": "app.config.configuration",
+        "peekOfCode": "def get(variable):\n    '''\n    Obtiene el valor de la variable de entorno correspondiente, en caso de no obtenerla, \n    la saca del archivo de configuracion\n    '''\n    variable = variable.value if isinstance(variable, Enum) else variable\n    return os.environ.get(f\"{APP_NAME}\".upper()+f\"_{variable}\", _get_mapa_variables()[variable])\ndef variables_cargadas() -> dict:\n    '''\n    Devuelve el mapa de variables con sus valores instanciados y filtrados por la lista de no mostrados",
+        "detail": "app.config.configuration",
+        "documentation": {}
+    },
+    {
+        "label": "variables_cargadas",
+        "kind": 2,
+        "importPath": "app.config.configuration",
+        "description": "app.config.configuration",
+        "peekOfCode": "def variables_cargadas() -> dict:\n    '''\n    Devuelve el mapa de variables con sus valores instanciados y filtrados por la lista de no mostrados\n    '''\n    resultado = {}\n    for key in _get_mapa_variables().keys():\n        if key in NO_MOSTRAR:\n            continue\n        resultado[key] = get(key)\n    return resultado",
+        "detail": "app.config.configuration",
+        "documentation": {}
+    },
+    {
+        "label": "is_environment_param",
+        "kind": 2,
+        "importPath": "app.config.mapa_variables",
+        "description": "app.config.mapa_variables",
+        "peekOfCode": "def is_environment_param():\n    return len(sys.argv)>1 and str(sys.argv) in [\"development\",\"production\"]\nAPP_NAME=\"henry_steam_api\"\nENVIRONMENT_MODE = str(str(sys.argv[1]) if is_environment_param() else os.environ.get(f\"{APP_NAME}\".upper()+\"_ENVIRONMENT_MODE\", \"development\")).upper()\nNO_MOSTRAR = [\"DEBUG_MODE\",\"LOG_LEVEL\",\"DIRECTORIO_LOGS\"]\nDEVELOPMENT = {\n    \"DEBUG_MODE\": True,\n    \"PYTHON_HOST\": \"0.0.0.0\",\n    \"PYTHON_PORT\":  5000,\n    \"API_BASE_PATH\": \"/api\",",
+        "detail": "app.config.mapa_variables",
+        "documentation": {}
+    },
+    {
+        "label": "ENVIRONMENT_MODE",
+        "kind": 5,
+        "importPath": "app.config.mapa_variables",
+        "description": "app.config.mapa_variables",
+        "peekOfCode": "ENVIRONMENT_MODE = str(str(sys.argv[1]) if is_environment_param() else os.environ.get(f\"{APP_NAME}\".upper()+\"_ENVIRONMENT_MODE\", \"development\")).upper()\nNO_MOSTRAR = [\"DEBUG_MODE\",\"LOG_LEVEL\",\"DIRECTORIO_LOGS\"]\nDEVELOPMENT = {\n    \"DEBUG_MODE\": True,\n    \"PYTHON_HOST\": \"0.0.0.0\",\n    \"PYTHON_PORT\":  5000,\n    \"API_BASE_PATH\": \"/api\",\n    \"LOG_LEVEL\": DEBUG,\n    \"DIRECTORIO_LOGS\": \"./logs\",\n    \"ENV\": ENVIRONMENT_MODE",
+        "detail": "app.config.mapa_variables",
+        "documentation": {}
+    },
+    {
+        "label": "NO_MOSTRAR",
+        "kind": 5,
+        "importPath": "app.config.mapa_variables",
+        "description": "app.config.mapa_variables",
+        "peekOfCode": "NO_MOSTRAR = [\"DEBUG_MODE\",\"LOG_LEVEL\",\"DIRECTORIO_LOGS\"]\nDEVELOPMENT = {\n    \"DEBUG_MODE\": True,\n    \"PYTHON_HOST\": \"0.0.0.0\",\n    \"PYTHON_PORT\":  5000,\n    \"API_BASE_PATH\": \"/api\",\n    \"LOG_LEVEL\": DEBUG,\n    \"DIRECTORIO_LOGS\": \"./logs\",\n    \"ENV\": ENVIRONMENT_MODE\n}",
+        "detail": "app.config.mapa_variables",
+        "documentation": {}
+    },
+    {
+        "label": "DEVELOPMENT",
+        "kind": 5,
+        "importPath": "app.config.mapa_variables",
+        "description": "app.config.mapa_variables",
+        "peekOfCode": "DEVELOPMENT = {\n    \"DEBUG_MODE\": True,\n    \"PYTHON_HOST\": \"0.0.0.0\",\n    \"PYTHON_PORT\":  5000,\n    \"API_BASE_PATH\": \"/api\",\n    \"LOG_LEVEL\": DEBUG,\n    \"DIRECTORIO_LOGS\": \"./logs\",\n    \"ENV\": ENVIRONMENT_MODE\n}\nPRODUCTION = {",
+        "detail": "app.config.mapa_variables",
+        "documentation": {}
+    },
+    {
+        "label": "PRODUCTION",
+        "kind": 5,
+        "importPath": "app.config.mapa_variables",
+        "description": "app.config.mapa_variables",
+        "peekOfCode": "PRODUCTION = {\n    \"DEBUG_MODE\": False,\n    \"PYTHON_HOST\": \"0.0.0.0\",\n    \"PYTHON_PORT\":  5000,\n    \"API_BASE_PATH\": \"/api\",\n    \"LOG_LEVEL\": INFO,\n    \"DIRECTORIO_LOGS\": \"./logs\",\n    \"ENV\": ENVIRONMENT_MODE\n}",
+        "detail": "app.config.mapa_variables",
+        "documentation": {}
+    },
+    {
+        "label": "Vars",
+        "kind": 6,
+        "importPath": "app.config.vars",
+        "description": "app.config.vars",
+        "peekOfCode": "class Vars(Enum):\n    DEBUG_MODE = \"DEBUG_MODE\"\n    API_HOST = \"PYTHON_HOST\"\n    API_PORT =  \"PYTHON_PORT\"\n    API_BASE_PATH = \"API_BASE_PATH\"\n    LOG_LEVEL = \"LOG_LEVEL\" \n    DIRECTORIO_LOGS = \"DIRECTORIO_LOGS\"",
+        "detail": "app.config.vars",
+        "documentation": {}
+    },
+    {
+        "label": "Developer",
+        "kind": 6,
+        "importPath": "app.model.developer",
+        "description": "app.model.developer",
+        "peekOfCode": "class Developer(BaseModel):\n    name : str = None\n    def new(name:str):\n        new_d=Developer()\n        new_d.name = name\n        return new_d\nclass DeveloperSentiments(BaseModel):\n    name : str = None\n    positive_quantity : int = None\n    negative_quantity : int = None",
+        "detail": "app.model.developer",
+        "documentation": {}
+    },
+    {
+        "label": "DeveloperSentiments",
+        "kind": 6,
+        "importPath": "app.model.developer",
+        "description": "app.model.developer",
+        "peekOfCode": "class DeveloperSentiments(BaseModel):\n    name : str = None\n    positive_quantity : int = None\n    negative_quantity : int = None\nclass DeveloperYearlyHistory(BaseModel):\n    items_quantity : int = None\n    year : int = None\n    free_items_quantity : int = None\n    def new(items_quantity:int,year:int,free_items_quantity:int):\n        new_d = DeveloperYearlyHistory()",
+        "detail": "app.model.developer",
+        "documentation": {}
+    },
+    {
+        "label": "DeveloperYearlyHistory",
+        "kind": 6,
+        "importPath": "app.model.developer",
+        "description": "app.model.developer",
+        "peekOfCode": "class DeveloperYearlyHistory(BaseModel):\n    items_quantity : int = None\n    year : int = None\n    free_items_quantity : int = None\n    def new(items_quantity:int,year:int,free_items_quantity:int):\n        new_d = DeveloperYearlyHistory()\n        new_d.items_quantity = items_quantity\n        new_d.year = year\n        new_d.free_items_quantity = free_items_quantity\n        return new_d",
+        "detail": "app.model.developer",
+        "documentation": {}
+    },
+    {
+        "label": "DeveloperHistory",
+        "kind": 6,
+        "importPath": "app.model.developer",
+        "description": "app.model.developer",
+        "peekOfCode": "class DeveloperHistory(BaseModel):\n    name : str = None\n    historical: List[DeveloperYearlyHistory] = []",
+        "detail": "app.model.developer",
+        "documentation": {}
+    },
+    {
+        "label": "AppException",
+        "kind": 6,
+        "importPath": "app.model.exception",
+        "description": "app.model.exception",
+        "peekOfCode": "class AppException(Exception):\n    '''\n    Clase de error basico para manejar errores de negocio o errores dentro de la aplicacion\n    que son esperados sus atributos son:\n    codigo: usado para quien quiera atrapar la excepcion, se puede usar un str de la forma 'ERROR_ALTA_USUARIO'\n    o un codigo numerico, la idea es que alguien pueda hacer un if con este codigo pudiendo hacer algo al respecto\n    mensaje: contiene informacion extra en formato texto para una mayor informacion, esto es mas para quien use la api,\n    un ejemplo puede ser: 'el usuario ya existe en la base de datos'\n    '''\n    def __init__(self, codigo, mensaje):",
+        "detail": "app.model.exception",
+        "documentation": {}
+    },
+    {
+        "label": "UnauthorizedException",
+        "kind": 6,
+        "importPath": "app.model.exception",
+        "description": "app.model.exception",
+        "peekOfCode": "class UnauthorizedException(AppException):\n    def __init__(self):\n        super().__init__(401, 'Usuario no autorizado')\n    def __str__(self):\n        return self.mensaje\nclass InvalidTokenException(AppException):\n    def __init__(self):\n        super().__init__(400, 'Token invalido')\n    def __str__(self):\n        return self.mensaje",
+        "detail": "app.model.exception",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidTokenException",
+        "kind": 6,
+        "importPath": "app.model.exception",
+        "description": "app.model.exception",
+        "peekOfCode": "class InvalidTokenException(AppException):\n    def __init__(self):\n        super().__init__(400, 'Token invalido')\n    def __str__(self):\n        return self.mensaje\nclass UserNotFoundException(AppException):\n    def __init__(self):\n        super().__init__(404, 'Usuario no encontrado')\n    def __str__(self):\n        return self.mensaje",
+        "detail": "app.model.exception",
+        "documentation": {}
+    },
+    {
+        "label": "UserNotFoundException",
+        "kind": 6,
+        "importPath": "app.model.exception",
+        "description": "app.model.exception",
+        "peekOfCode": "class UserNotFoundException(AppException):\n    def __init__(self):\n        super().__init__(404, 'Usuario no encontrado')\n    def __str__(self):\n        return self.mensaje",
+        "detail": "app.model.exception",
+        "documentation": {}
+    },
+    {
+        "label": "HTTP_STATUS_ERROR_NEGOCIO",
+        "kind": 5,
+        "importPath": "app.model.exception",
+        "description": "app.model.exception",
+        "peekOfCode": "HTTP_STATUS_ERROR_NEGOCIO = 409\nclass AppException(Exception):\n    '''\n    Clase de error basico para manejar errores de negocio o errores dentro de la aplicacion\n    que son esperados sus atributos son:\n    codigo: usado para quien quiera atrapar la excepcion, se puede usar un str de la forma 'ERROR_ALTA_USUARIO'\n    o un codigo numerico, la idea es que alguien pueda hacer un if con este codigo pudiendo hacer algo al respecto\n    mensaje: contiene informacion extra en formato texto para una mayor informacion, esto es mas para quien use la api,\n    un ejemplo puede ser: 'el usuario ya existe en la base de datos'\n    '''",
+        "detail": "app.model.exception",
+        "documentation": {}
+    },
+    {
+        "label": "Game",
+        "kind": 6,
+        "importPath": "app.model.game",
+        "description": "app.model.game",
+        "peekOfCode": "class Game(BaseModel):\n    item_id : str = None\n    name : str = None\n    def new(item_id:str,name:str):\n        new_g = Game()\n        new_g.item_id = item_id\n        new_g.name = name\n        return new_g",
+        "detail": "app.model.game",
+        "documentation": {}
+    },
+    {
+        "label": "YearlyPlay",
+        "kind": 6,
+        "importPath": "app.model.user",
+        "description": "app.model.user",
+        "peekOfCode": "class YearlyPlay(BaseModel):\n    year : int = None\n    hours : float = None\n    def new(year:int,hours:float):\n        new_y = YearlyPlay()\n        new_y.year = year\n        new_y.hours = hours\n        return new_y\nclass UserAddiction(BaseModel):\n    user_id : str = None",
+        "detail": "app.model.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserAddiction",
+        "kind": 6,
+        "importPath": "app.model.user",
+        "description": "app.model.user",
+        "peekOfCode": "class UserAddiction(BaseModel):\n    user_id : str = None\n    genre : str = None\n    yearly_played_hours : List[YearlyPlay] = []\nclass User(BaseModel):\n    user_id : str = None\n    review_percentage : float = 0\n    money_spent : float = 0\n    item_count : int = 0",
+        "detail": "app.model.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "app.model.user",
+        "description": "app.model.user",
+        "peekOfCode": "class User(BaseModel):\n    user_id : str = None\n    review_percentage : float = 0\n    money_spent : float = 0\n    item_count : int = 0",
+        "detail": "app.model.user",
+        "documentation": {}
+    },
+    {
+        "label": "get_top3",
+        "kind": 2,
+        "importPath": "app.routes.v1.developer_route",
+        "description": "app.routes.v1.developer_route",
+        "peekOfCode": "def get_top3(year:int):\n    top_3 = developer_service.get_top_3(year)\n    return get_valid_rest_object(top_3)\n@blue_print.get('/{developer}/sentiment', response_model=DeveloperSentiments)\ndef get_developer_sentiments(developer):\n    sentiments = developer_service.get_sentiments(developer)\n    return get_valid_rest_object(sentiments)\n@blue_print.get('/{developer}/history', response_model=DeveloperHistory)\ndef get_developer_history(developer):\n    sentiments = developer_service.get_history(developer)",
+        "detail": "app.routes.v1.developer_route",
+        "documentation": {}
+    },
+    {
+        "label": "get_developer_sentiments",
+        "kind": 2,
+        "importPath": "app.routes.v1.developer_route",
+        "description": "app.routes.v1.developer_route",
+        "peekOfCode": "def get_developer_sentiments(developer):\n    sentiments = developer_service.get_sentiments(developer)\n    return get_valid_rest_object(sentiments)\n@blue_print.get('/{developer}/history', response_model=DeveloperHistory)\ndef get_developer_history(developer):\n    sentiments = developer_service.get_history(developer)\n    return get_valid_rest_object(sentiments)",
+        "detail": "app.routes.v1.developer_route",
+        "documentation": {}
+    },
+    {
+        "label": "get_developer_history",
+        "kind": 2,
+        "importPath": "app.routes.v1.developer_route",
+        "description": "app.routes.v1.developer_route",
+        "peekOfCode": "def get_developer_history(developer):\n    sentiments = developer_service.get_history(developer)\n    return get_valid_rest_object(sentiments)",
+        "detail": "app.routes.v1.developer_route",
+        "documentation": {}
+    },
+    {
+        "label": "URI",
+        "kind": 5,
+        "importPath": "app.routes.v1.developer_route",
+        "description": "app.routes.v1.developer_route",
+        "peekOfCode": "URI = \"/developers\"\nVERSION = \"/v1\"\nblue_print = APIRouter(prefix=conf.get(Vars.API_BASE_PATH)+VERSION+URI,tags=[\"developers\"])\n@blue_print.get('/top3/{year}', response_model=List[Developer])\ndef get_top3(year:int):\n    top_3 = developer_service.get_top_3(year)\n    return get_valid_rest_object(top_3)\n@blue_print.get('/{developer}/sentiment', response_model=DeveloperSentiments)\ndef get_developer_sentiments(developer):\n    sentiments = developer_service.get_sentiments(developer)",
+        "detail": "app.routes.v1.developer_route",
+        "documentation": {}
+    },
+    {
+        "label": "VERSION",
+        "kind": 5,
+        "importPath": "app.routes.v1.developer_route",
+        "description": "app.routes.v1.developer_route",
+        "peekOfCode": "VERSION = \"/v1\"\nblue_print = APIRouter(prefix=conf.get(Vars.API_BASE_PATH)+VERSION+URI,tags=[\"developers\"])\n@blue_print.get('/top3/{year}', response_model=List[Developer])\ndef get_top3(year:int):\n    top_3 = developer_service.get_top_3(year)\n    return get_valid_rest_object(top_3)\n@blue_print.get('/{developer}/sentiment', response_model=DeveloperSentiments)\ndef get_developer_sentiments(developer):\n    sentiments = developer_service.get_sentiments(developer)\n    return get_valid_rest_object(sentiments)",
+        "detail": "app.routes.v1.developer_route",
+        "documentation": {}
+    },
+    {
+        "label": "blue_print",
+        "kind": 5,
+        "importPath": "app.routes.v1.developer_route",
+        "description": "app.routes.v1.developer_route",
+        "peekOfCode": "blue_print = APIRouter(prefix=conf.get(Vars.API_BASE_PATH)+VERSION+URI,tags=[\"developers\"])\n@blue_print.get('/top3/{year}', response_model=List[Developer])\ndef get_top3(year:int):\n    top_3 = developer_service.get_top_3(year)\n    return get_valid_rest_object(top_3)\n@blue_print.get('/{developer}/sentiment', response_model=DeveloperSentiments)\ndef get_developer_sentiments(developer):\n    sentiments = developer_service.get_sentiments(developer)\n    return get_valid_rest_object(sentiments)\n@blue_print.get('/{developer}/history', response_model=DeveloperHistory)",
+        "detail": "app.routes.v1.developer_route",
+        "documentation": {}
+    },
+    {
+        "label": "suggest_game",
+        "kind": 2,
+        "importPath": "app.routes.v1.games_route",
+        "description": "app.routes.v1.games_route",
+        "peekOfCode": "def suggest_game(item_id):\n    game = game_service.suggest_by_game(item_id)\n    return get_valid_rest_object(game)",
+        "detail": "app.routes.v1.games_route",
+        "documentation": {}
+    },
+    {
+        "label": "URI",
+        "kind": 5,
+        "importPath": "app.routes.v1.games_route",
+        "description": "app.routes.v1.games_route",
+        "peekOfCode": "URI = \"/games\"\nVERSION = \"/v1\"\nblue_print = APIRouter(prefix=conf.get(Vars.API_BASE_PATH)+VERSION+URI,tags=[\"games\"])\n@blue_print.get('/{item_id}/suggest', response_model=List[Game])\ndef suggest_game(item_id):\n    game = game_service.suggest_by_game(item_id)\n    return get_valid_rest_object(game)",
+        "detail": "app.routes.v1.games_route",
+        "documentation": {}
+    },
+    {
+        "label": "VERSION",
+        "kind": 5,
+        "importPath": "app.routes.v1.games_route",
+        "description": "app.routes.v1.games_route",
+        "peekOfCode": "VERSION = \"/v1\"\nblue_print = APIRouter(prefix=conf.get(Vars.API_BASE_PATH)+VERSION+URI,tags=[\"games\"])\n@blue_print.get('/{item_id}/suggest', response_model=List[Game])\ndef suggest_game(item_id):\n    game = game_service.suggest_by_game(item_id)\n    return get_valid_rest_object(game)",
+        "detail": "app.routes.v1.games_route",
+        "documentation": {}
+    },
+    {
+        "label": "blue_print",
+        "kind": 5,
+        "importPath": "app.routes.v1.games_route",
+        "description": "app.routes.v1.games_route",
+        "peekOfCode": "blue_print = APIRouter(prefix=conf.get(Vars.API_BASE_PATH)+VERSION+URI,tags=[\"games\"])\n@blue_print.get('/{item_id}/suggest', response_model=List[Game])\ndef suggest_game(item_id):\n    game = game_service.suggest_by_game(item_id)\n    return get_valid_rest_object(game)",
+        "detail": "app.routes.v1.games_route",
+        "documentation": {}
+    },
+    {
+        "label": "get_top_user",
+        "kind": 2,
+        "importPath": "app.routes.v1.genres_route",
+        "description": "app.routes.v1.genres_route",
+        "peekOfCode": "def get_top_user(genre):\n    user_addiction = user_service.most_addictive(genre)\n    return get_valid_rest_object(user_addiction)",
+        "detail": "app.routes.v1.genres_route",
+        "documentation": {}
+    },
+    {
+        "label": "URI",
+        "kind": 5,
+        "importPath": "app.routes.v1.genres_route",
+        "description": "app.routes.v1.genres_route",
+        "peekOfCode": "URI = \"/genres\"\nVERSION = \"/v1\"\nblue_print = APIRouter(prefix=conf.get(Vars.API_BASE_PATH)+VERSION+URI,tags=[\"genres\"])\n@blue_print.get('/{genre}/users/top', response_model=UserAddiction)\ndef get_top_user(genre):\n    user_addiction = user_service.most_addictive(genre)\n    return get_valid_rest_object(user_addiction)",
+        "detail": "app.routes.v1.genres_route",
+        "documentation": {}
+    },
+    {
+        "label": "VERSION",
+        "kind": 5,
+        "importPath": "app.routes.v1.genres_route",
+        "description": "app.routes.v1.genres_route",
+        "peekOfCode": "VERSION = \"/v1\"\nblue_print = APIRouter(prefix=conf.get(Vars.API_BASE_PATH)+VERSION+URI,tags=[\"genres\"])\n@blue_print.get('/{genre}/users/top', response_model=UserAddiction)\ndef get_top_user(genre):\n    user_addiction = user_service.most_addictive(genre)\n    return get_valid_rest_object(user_addiction)",
+        "detail": "app.routes.v1.genres_route",
+        "documentation": {}
+    },
+    {
+        "label": "blue_print",
+        "kind": 5,
+        "importPath": "app.routes.v1.genres_route",
+        "description": "app.routes.v1.genres_route",
+        "peekOfCode": "blue_print = APIRouter(prefix=conf.get(Vars.API_BASE_PATH)+VERSION+URI,tags=[\"genres\"])\n@blue_print.get('/{genre}/users/top', response_model=UserAddiction)\ndef get_top_user(genre):\n    user_addiction = user_service.most_addictive(genre)\n    return get_valid_rest_object(user_addiction)",
+        "detail": "app.routes.v1.genres_route",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "app.routes.v1.user_route",
+        "description": "app.routes.v1.user_route",
+        "peekOfCode": "def get_user(user_id):\n    user = user_service.get_user(user_id)\n    return get_valid_rest_object(user)",
+        "detail": "app.routes.v1.user_route",
+        "documentation": {}
+    },
+    {
+        "label": "URI",
+        "kind": 5,
+        "importPath": "app.routes.v1.user_route",
+        "description": "app.routes.v1.user_route",
+        "peekOfCode": "URI = \"/users\"\nVERSION = \"/v1\"\nblue_print = APIRouter(prefix=conf.get(Vars.API_BASE_PATH)+VERSION+URI,tags=[\"users\"])\n@blue_print.get('/{user_id}', response_model=User)\ndef get_user(user_id):\n    user = user_service.get_user(user_id)\n    return get_valid_rest_object(user)",
+        "detail": "app.routes.v1.user_route",
+        "documentation": {}
+    },
+    {
+        "label": "VERSION",
+        "kind": 5,
+        "importPath": "app.routes.v1.user_route",
+        "description": "app.routes.v1.user_route",
+        "peekOfCode": "VERSION = \"/v1\"\nblue_print = APIRouter(prefix=conf.get(Vars.API_BASE_PATH)+VERSION+URI,tags=[\"users\"])\n@blue_print.get('/{user_id}', response_model=User)\ndef get_user(user_id):\n    user = user_service.get_user(user_id)\n    return get_valid_rest_object(user)",
+        "detail": "app.routes.v1.user_route",
+        "documentation": {}
+    },
+    {
+        "label": "blue_print",
+        "kind": 5,
+        "importPath": "app.routes.v1.user_route",
+        "description": "app.routes.v1.user_route",
+        "peekOfCode": "blue_print = APIRouter(prefix=conf.get(Vars.API_BASE_PATH)+VERSION+URI,tags=[\"users\"])\n@blue_print.get('/{user_id}', response_model=User)\ndef get_user(user_id):\n    user = user_service.get_user(user_id)\n    return get_valid_rest_object(user)",
+        "detail": "app.routes.v1.user_route",
+        "documentation": {}
+    },
+    {
+        "label": "variables",
+        "kind": 2,
+        "importPath": "app.routes.api_route",
+        "description": "app.routes.api_route",
+        "peekOfCode": "def variables():\n    return var.variables_cargadas()\n@blue_print.get('/errors')\ndef error():\n    raise AppException(409, 'No Wanda Nara!')\n@blue_print.get('/ping')\ndef alive():\n    logger.info(\"piiing\")\n    return \"pong\"",
+        "detail": "app.routes.api_route",
+        "documentation": {}
+    },
+    {
+        "label": "error",
+        "kind": 2,
+        "importPath": "app.routes.api_route",
+        "description": "app.routes.api_route",
+        "peekOfCode": "def error():\n    raise AppException(409, 'No Wanda Nara!')\n@blue_print.get('/ping')\ndef alive():\n    logger.info(\"piiing\")\n    return \"pong\"",
+        "detail": "app.routes.api_route",
+        "documentation": {}
+    },
+    {
+        "label": "alive",
+        "kind": 2,
+        "importPath": "app.routes.api_route",
+        "description": "app.routes.api_route",
+        "peekOfCode": "def alive():\n    logger.info(\"piiing\")\n    return \"pong\"",
+        "detail": "app.routes.api_route",
+        "documentation": {}
+    },
+    {
+        "label": "blue_print",
+        "kind": 5,
+        "importPath": "app.routes.api_route",
+        "description": "app.routes.api_route",
+        "peekOfCode": "blue_print = APIRouter(prefix='',tags=[\"monitoring\"])\nlogger = get_logger()\n@blue_print.get('/vars')\ndef variables():\n    return var.variables_cargadas()\n@blue_print.get('/errors')\ndef error():\n    raise AppException(409, 'No Wanda Nara!')\n@blue_print.get('/ping')\ndef alive():",
+        "detail": "app.routes.api_route",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.routes.api_route",
+        "description": "app.routes.api_route",
+        "peekOfCode": "logger = get_logger()\n@blue_print.get('/vars')\ndef variables():\n    return var.variables_cargadas()\n@blue_print.get('/errors')\ndef error():\n    raise AppException(409, 'No Wanda Nara!')\n@blue_print.get('/ping')\ndef alive():\n    logger.info(\"piiing\")",
+        "detail": "app.routes.api_route",
+        "documentation": {}
+    },
+    {
+        "label": "get_top_3",
+        "kind": 2,
+        "importPath": "app.services.developer_service",
+        "description": "app.services.developer_service",
+        "peekOfCode": "def get_top_3(year:int)->List[Developer]:\n    top_3_df = pandas_service.get_top_3_df()\n    top_3_df = top_3_df[top_3_df[\"anio\"]==str(year)]\n    top_3_df = top_3_df.sort_values(\"comentarios_positivos\",ascending=False)\n    return top_3_df[\"desarrolladora\"].head(3).apply(Developer.new).tolist()\ndef get_sentiments(developer:str)->DeveloperSentiments:\n    dev_sentiments = DeveloperSentiments()\n    dev_sentiments.name = developer\n    dev_sentiments_df = pandas_service.get_dev_sentiments_df()\n    dev_sentiments_df = dev_sentiments_df[dev_sentiments_df[\"desarrolladora\"]==developer]",
+        "detail": "app.services.developer_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_sentiments",
+        "kind": 2,
+        "importPath": "app.services.developer_service",
+        "description": "app.services.developer_service",
+        "peekOfCode": "def get_sentiments(developer:str)->DeveloperSentiments:\n    dev_sentiments = DeveloperSentiments()\n    dev_sentiments.name = developer\n    dev_sentiments_df = pandas_service.get_dev_sentiments_df()\n    dev_sentiments_df = dev_sentiments_df[dev_sentiments_df[\"desarrolladora\"]==developer]\n    dev_sentiments.positive_quantity = int(dev_sentiments_df.iloc[0][\"positivos\"])\n    dev_sentiments.negative_quantity = int(dev_sentiments_df.iloc[0][\"negativos\"])\n    return dev_sentiments\ndef get_history(developer:str)->DeveloperHistory:\n    history = DeveloperHistory()",
+        "detail": "app.services.developer_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_history",
+        "kind": 2,
+        "importPath": "app.services.developer_service",
+        "description": "app.services.developer_service",
+        "peekOfCode": "def get_history(developer:str)->DeveloperHistory:\n    history = DeveloperHistory()\n    history.name = developer\n    dev_history_df = pandas_service.get_dev_history_df()\n    dev_history_df = dev_history_df[dev_history_df[\"desarrolladora\"]==developer]\n    history.historical = dev_history_df.apply(lambda r:DeveloperYearlyHistory.new(int(r[\"total_items\"]),int(r[\"anio\"]),int(r[\"total_free_items\"])),axis=1).tolist()\n    return history",
+        "detail": "app.services.developer_service",
+        "documentation": {}
+    },
+    {
+        "label": "suggest_by_game",
+        "kind": 2,
+        "importPath": "app.services.game_service",
+        "description": "app.services.game_service",
+        "peekOfCode": "def suggest_by_game(item_id:str)->List[Game]:\n    game_model_df = pandas_service.get_prediction_df()\n    loaded_model = pandas_service.load_model()\n    input_features = game_model_df[game_model_df['id_item'] == item_id].drop([\"id_item\",\"juego\"],axis=1)  # Input features for a specific game\n    similarity_scores = loaded_model.predict(input_features)\n    # Assuming you have a list of all 'id_item' values\n    all_id_items = game_model_df['id_item'].values\n    all_game_names = game_model_df['juego'].values\n    # Combine 'id_item' with similarity scores\n    similarity_with_id_and_name = list(zip(all_id_items, all_game_names,similarity_scores[0]))",
+        "detail": "app.services.game_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_data_df",
+        "kind": 2,
+        "importPath": "app.services.pandas_service",
+        "description": "app.services.pandas_service",
+        "peekOfCode": "def get_user_data_df():\n    return _get_df(USER_DATA_FILE_PARQUET)\ndef get_genre_top_players_df():\n    return _get_df(GENRE_TOP_PLAYER_FILE_PARQUET)\ndef get_dev_history_df():\n    return _get_df(DEVELOPER_HISTORY_FILE_PARQUET)\ndef get_dev_sentiments_df():\n    return _get_df(DEVELOPER_SENTIMENT_FILE_PARQUET)\ndef get_top_3_df():\n    return _get_df(TOP_3_FILE_PARQUET)",
+        "detail": "app.services.pandas_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_genre_top_players_df",
+        "kind": 2,
+        "importPath": "app.services.pandas_service",
+        "description": "app.services.pandas_service",
+        "peekOfCode": "def get_genre_top_players_df():\n    return _get_df(GENRE_TOP_PLAYER_FILE_PARQUET)\ndef get_dev_history_df():\n    return _get_df(DEVELOPER_HISTORY_FILE_PARQUET)\ndef get_dev_sentiments_df():\n    return _get_df(DEVELOPER_SENTIMENT_FILE_PARQUET)\ndef get_top_3_df():\n    return _get_df(TOP_3_FILE_PARQUET)\ndef get_prediction_df():\n    return _get_df(PREDICTION_FILE_PARQUET)",
+        "detail": "app.services.pandas_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_dev_history_df",
+        "kind": 2,
+        "importPath": "app.services.pandas_service",
+        "description": "app.services.pandas_service",
+        "peekOfCode": "def get_dev_history_df():\n    return _get_df(DEVELOPER_HISTORY_FILE_PARQUET)\ndef get_dev_sentiments_df():\n    return _get_df(DEVELOPER_SENTIMENT_FILE_PARQUET)\ndef get_top_3_df():\n    return _get_df(TOP_3_FILE_PARQUET)\ndef get_prediction_df():\n    return _get_df(PREDICTION_FILE_PARQUET)\ndef load_model():\n    with open(MODEL_FILE, 'rb') as model_file:",
+        "detail": "app.services.pandas_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_dev_sentiments_df",
+        "kind": 2,
+        "importPath": "app.services.pandas_service",
+        "description": "app.services.pandas_service",
+        "peekOfCode": "def get_dev_sentiments_df():\n    return _get_df(DEVELOPER_SENTIMENT_FILE_PARQUET)\ndef get_top_3_df():\n    return _get_df(TOP_3_FILE_PARQUET)\ndef get_prediction_df():\n    return _get_df(PREDICTION_FILE_PARQUET)\ndef load_model():\n    with open(MODEL_FILE, 'rb') as model_file:\n        loaded_model = pickle.load(model_file)\n    return loaded_model",
+        "detail": "app.services.pandas_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_top_3_df",
+        "kind": 2,
+        "importPath": "app.services.pandas_service",
+        "description": "app.services.pandas_service",
+        "peekOfCode": "def get_top_3_df():\n    return _get_df(TOP_3_FILE_PARQUET)\ndef get_prediction_df():\n    return _get_df(PREDICTION_FILE_PARQUET)\ndef load_model():\n    with open(MODEL_FILE, 'rb') as model_file:\n        loaded_model = pickle.load(model_file)\n    return loaded_model",
+        "detail": "app.services.pandas_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_prediction_df",
+        "kind": 2,
+        "importPath": "app.services.pandas_service",
+        "description": "app.services.pandas_service",
+        "peekOfCode": "def get_prediction_df():\n    return _get_df(PREDICTION_FILE_PARQUET)\ndef load_model():\n    with open(MODEL_FILE, 'rb') as model_file:\n        loaded_model = pickle.load(model_file)\n    return loaded_model",
+        "detail": "app.services.pandas_service",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "kind": 2,
+        "importPath": "app.services.pandas_service",
+        "description": "app.services.pandas_service",
+        "peekOfCode": "def load_model():\n    with open(MODEL_FILE, 'rb') as model_file:\n        loaded_model = pickle.load(model_file)\n    return loaded_model",
+        "detail": "app.services.pandas_service",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_FILE",
+        "kind": 5,
+        "importPath": "app.services.pandas_service",
+        "description": "app.services.pandas_service",
+        "peekOfCode": "MODEL_FILE = \"files/cosine_similarity_model.pkl\"\ndef _get_df(path:str):\n    return pd.read_parquet(path, engine='pyarrow')\ndef get_user_data_df():\n    return _get_df(USER_DATA_FILE_PARQUET)\ndef get_genre_top_players_df():\n    return _get_df(GENRE_TOP_PLAYER_FILE_PARQUET)\ndef get_dev_history_df():\n    return _get_df(DEVELOPER_HISTORY_FILE_PARQUET)\ndef get_dev_sentiments_df():",
+        "detail": "app.services.pandas_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "app.services.user_service",
+        "description": "app.services.user_service",
+        "peekOfCode": "def get_user(user_id:str)->User:\n    user = User()\n    user.user_id = user_id\n    user_data_df = pandas_service.get_user_data_df()\n    user_data_df = user_data_df[user_data_df[\"id_usuario\"]==user_id]\n    user.money_spent = float(user_data_df.iloc[0][\"dinero_gastado\"])\n    user.item_count = int(user_data_df.iloc[0][\"cantidad_items\"])\n    user.review_percentage = float(user_data_df.iloc[0][\"porcentaje_recomendado\"])\n    return user\ndef most_addictive(genre:str)->UserAddiction:",
+        "detail": "app.services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "most_addictive",
+        "kind": 2,
+        "importPath": "app.services.user_service",
+        "description": "app.services.user_service",
+        "peekOfCode": "def most_addictive(genre:str)->UserAddiction:\n    addiction = UserAddiction()\n    addiction.genre = genre\n    genre_top_players_df = pandas_service.get_genre_top_players_df()\n    genre_top_players_df = genre_top_players_df[genre_top_players_df[\"genero\"]==genre]\n    addiction.user_id = genre_top_players_df.iloc[0][\"id_usuario\"]\n    addiction.yearly_played_hours = genre_top_players_df.apply(lambda r: YearlyPlay.new(int(r[\"anio_juego\"]),float(r[\"tiempo_jugado_genero_anio\"])),axis=1).tolist()\n    return addiction",
+        "detail": "app.services.user_service",
+        "documentation": {}
+    },
+    {
+        "label": "registrar_blue_prints",
+        "kind": 2,
+        "importPath": "app.utils.blueprint_util",
+        "description": "app.utils.blueprint_util",
+        "peekOfCode": "def registrar_blue_prints(app: FastAPI, directorio_rutas: str):\n    '''\n    Registra los archivos dentro de `directorio_rutas` recursivamente como Blueprints para Flask,\n    pera esto es necesario que se defina un atributo llamado `blue_print` en cada archivo python. \\n\n    Ejemplo:\n    ```\n    from flask import Blueprint\n    blue_print = Blueprint('nombre_unico_de_ruta', __name__, url_prefix='/api/v1/ejemplos')\n    ```\n    '''",
+        "detail": "app.utils.blueprint_util",
+        "documentation": {}
+    },
+    {
+        "label": "__version__",
+        "kind": 5,
+        "importPath": "app.utils.blueprint_util",
+        "description": "app.utils.blueprint_util",
+        "peekOfCode": "__version__ = '1.1.0'\ndef _nombre_archivo(ruta: str):\n    '''\n    Devuelve el nombre del archivo al final de la ruta sin la extension\n    '''\n    return path.basename(ruta).split(\".\")[0]\ndef _cargar_rutas_de_archivos(ruta_base: str):\n    '''\n    Obtiene las rutas de todos los archivos .py dentro del directorio parametro, \n    es recursivo por lo que si hay carpetas dentro tambien busca ahi",
+        "detail": "app.utils.blueprint_util",
+        "documentation": {}
+    },
+    {
+        "label": "path_join",
+        "kind": 2,
+        "importPath": "app.utils.file_util",
+        "description": "app.utils.file_util",
+        "peekOfCode": "def path_join(*args)->str:\n    '''Joinea cualquier numero de paths '''\n    is_first_element=True\n    normalized_args = [args[0]]\n    for arg in args:\n        if is_first_element:\n            is_first_element=False\n            continue\n        if len(arg)>1 and (arg[0]==\"/\" or arg[0]==\"\\\\\"):\n            if len(arg)==1:",
+        "detail": "app.utils.file_util",
+        "documentation": {}
+    },
+    {
+        "label": "make_directory_if_not_exists",
+        "kind": 2,
+        "importPath": "app.utils.file_util",
+        "description": "app.utils.file_util",
+        "peekOfCode": "def make_directory_if_not_exists(path):\n    '''Crea un directorio si este no existe'''\n    os.makedirs(path,exist_ok=True)\ndef get_file_name(path:str)->str:\n    '''Retorna el nombre de archivo y extension de un path completo'''\n    return path.split('/')[-1:][0]\ndef path_exists(path:str)->bool:\n    '''Informa si una ruta existe'''\n    return os.path.exists(path)\ndef is_dir(path:str)->bool:",
+        "detail": "app.utils.file_util",
+        "documentation": {}
+    },
+    {
+        "label": "get_file_name",
+        "kind": 2,
+        "importPath": "app.utils.file_util",
+        "description": "app.utils.file_util",
+        "peekOfCode": "def get_file_name(path:str)->str:\n    '''Retorna el nombre de archivo y extension de un path completo'''\n    return path.split('/')[-1:][0]\ndef path_exists(path:str)->bool:\n    '''Informa si una ruta existe'''\n    return os.path.exists(path)\ndef is_dir(path:str)->bool:\n    '''Retorna true si el path es un directorio y no un archivo'''\n    return os.path.isdir(path)\ndef is_file(dir:str)->bool:",
+        "detail": "app.utils.file_util",
+        "documentation": {}
+    },
+    {
+        "label": "path_exists",
+        "kind": 2,
+        "importPath": "app.utils.file_util",
+        "description": "app.utils.file_util",
+        "peekOfCode": "def path_exists(path:str)->bool:\n    '''Informa si una ruta existe'''\n    return os.path.exists(path)\ndef is_dir(path:str)->bool:\n    '''Retorna true si el path es un directorio y no un archivo'''\n    return os.path.isdir(path)\ndef is_file(dir:str)->bool:\n    '''Retorna true si el path es un archivo y no un directorio'''\n    return not is_dir(dir)\ndef list_files(path:str)->List[str]:",
+        "detail": "app.utils.file_util",
+        "documentation": {}
+    },
+    {
+        "label": "is_dir",
+        "kind": 2,
+        "importPath": "app.utils.file_util",
+        "description": "app.utils.file_util",
+        "peekOfCode": "def is_dir(path:str)->bool:\n    '''Retorna true si el path es un directorio y no un archivo'''\n    return os.path.isdir(path)\ndef is_file(dir:str)->bool:\n    '''Retorna true si el path es un archivo y no un directorio'''\n    return not is_dir(dir)\ndef list_files(path:str)->List[str]:\n    '''Lista tdos los archivos o directorios recursivamente dentro de dir'''\n    path_a_listar = path if is_file(path) else path_join(path, \"/**/*\")\n    return glob.iglob(path_a_listar, recursive=True)",
+        "detail": "app.utils.file_util",
+        "documentation": {}
+    },
+    {
+        "label": "is_file",
+        "kind": 2,
+        "importPath": "app.utils.file_util",
+        "description": "app.utils.file_util",
+        "peekOfCode": "def is_file(dir:str)->bool:\n    '''Retorna true si el path es un archivo y no un directorio'''\n    return not is_dir(dir)\ndef list_files(path:str)->List[str]:\n    '''Lista tdos los archivos o directorios recursivamente dentro de dir'''\n    path_a_listar = path if is_file(path) else path_join(path, \"/**/*\")\n    return glob.iglob(path_a_listar, recursive=True)\ndef list_top_level_files(path:str)->List[str]:\n    '''Lista tdos los archivos o directorios dentro del 1er nivel de dir'''\n    return [path_join(path,name) for name in os.listdir(path)]",
+        "detail": "app.utils.file_util",
+        "documentation": {}
+    },
+    {
+        "label": "list_files",
+        "kind": 2,
+        "importPath": "app.utils.file_util",
+        "description": "app.utils.file_util",
+        "peekOfCode": "def list_files(path:str)->List[str]:\n    '''Lista tdos los archivos o directorios recursivamente dentro de dir'''\n    path_a_listar = path if is_file(path) else path_join(path, \"/**/*\")\n    return glob.iglob(path_a_listar, recursive=True)\ndef list_top_level_files(path:str)->List[str]:\n    '''Lista tdos los archivos o directorios dentro del 1er nivel de dir'''\n    return [path_join(path,name) for name in os.listdir(path)]\ndef delete_file(path:str):\n    '''Elimina un archivo o directorio'''\n    if not path_exists(path):",
+        "detail": "app.utils.file_util",
+        "documentation": {}
+    },
+    {
+        "label": "list_top_level_files",
+        "kind": 2,
+        "importPath": "app.utils.file_util",
+        "description": "app.utils.file_util",
+        "peekOfCode": "def list_top_level_files(path:str)->List[str]:\n    '''Lista tdos los archivos o directorios dentro del 1er nivel de dir'''\n    return [path_join(path,name) for name in os.listdir(path)]\ndef delete_file(path:str):\n    '''Elimina un archivo o directorio'''\n    if not path_exists(path):\n        return\n    if is_file(path):\n        os.remove(path)\n    else:",
+        "detail": "app.utils.file_util",
+        "documentation": {}
+    },
+    {
+        "label": "delete_file",
+        "kind": 2,
+        "importPath": "app.utils.file_util",
+        "description": "app.utils.file_util",
+        "peekOfCode": "def delete_file(path:str):\n    '''Elimina un archivo o directorio'''\n    if not path_exists(path):\n        return\n    if is_file(path):\n        os.remove(path)\n    else:\n        shutil.rmtree(path)\ndef copy_file(from_path:str,to_path:str,replace_if_exists=False,move=False):\n    '''Copia, mueve o reemplaza un archivo o directorio de from_path a to_path'''",
+        "detail": "app.utils.file_util",
+        "documentation": {}
+    },
+    {
+        "label": "copy_file",
+        "kind": 2,
+        "importPath": "app.utils.file_util",
+        "description": "app.utils.file_util",
+        "peekOfCode": "def copy_file(from_path:str,to_path:str,replace_if_exists=False,move=False):\n    '''Copia, mueve o reemplaza un archivo o directorio de from_path a to_path'''\n    if is_file(from_path):\n            shutil.copy(from_path, to_path)\n            return\n    for src_dir, dirs, files in os.walk(from_path):\n        dst_dir = src_dir.replace(from_path, to_path, 1)\n        if not os.path.exists(dst_dir):\n            os.makedirs(dst_dir)\n        for file_ in files:",
+        "detail": "app.utils.file_util",
+        "documentation": {}
+    },
+    {
+        "label": "unzip_bytes",
+        "kind": 2,
+        "importPath": "app.utils.file_util",
+        "description": "app.utils.file_util",
+        "peekOfCode": "def unzip_bytes(data:bytes,path:str):\n    '''unzipea un archivo en el path especificado a traves de los bytes'''\n    z = zipfile.ZipFile(io.BytesIO(data), \"r\")\n    # z.read(path)        # Reads the data from \"foo.txt\"\n    #z.read(z.infolist()[0]) # Reads the data from the first file\n    filename = z.infolist()[0].filename\n    filename = filename[:-1] if filename.endswith(\"/\") else filename\n    # last_char_index = path.rfind(filename)\n    #REEMPLAZO EL NOMBRE DEL ARCHIVO POR VACION EN EL PATH ASI NO DUPLICA LAS CARPETAS\n    # path_to_extract = path[:last_char_index] if last_char_index!=-1 else path",
+        "detail": "app.utils.file_util",
+        "documentation": {}
+    },
+    {
+        "label": "zip_file",
+        "kind": 2,
+        "importPath": "app.utils.file_util",
+        "description": "app.utils.file_util",
+        "peekOfCode": "def zip_file(file_path:str,zip_path:str):\n    '''\n    Crea un zip con el archivo en file_path\n    '''\n    shutil.make_archive(zip_path.replace(\".zip\",\"\"), 'zip', file_path)",
+        "detail": "app.utils.file_util",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "kind": 2,
+        "importPath": "app.utils.logger_util",
+        "description": "app.utils.logger_util",
+        "peekOfCode": "def get_logger(nombre=_NOMBRE_LOG_PREDEFINIDO) -> logging.Logger:\n    '''\n    Devuelve un objeto logger por un nombre, en caso de que no exista lo crea\n    '''\n    if nombre in _loggers:\n        return _loggers[nombre]\n    logger = logging.getLogger(nombre)\n    formatter = logging.Formatter(\n        '%(asctime)s - %(name)s (%(process)d) - %(levelname)s - %(message)s')\n    make_directory_if_not_exists(_DIRECTORIO_LOGS)",
+        "detail": "app.utils.logger_util",
+        "documentation": {}
+    },
+    {
+        "label": "_DIRECTORIO_LOGS",
+        "kind": 5,
+        "importPath": "app.utils.logger_util",
+        "description": "app.utils.logger_util",
+        "peekOfCode": "_DIRECTORIO_LOGS = conf.get(Vars.DIRECTORIO_LOGS)\n_NOMBRE_LOG_PREDEFINIDO = APP_NAME\n_NIVEL_LOGS = conf.get(Vars.LOG_LEVEL)\n_loggers = {}\ndef get_logger(nombre=_NOMBRE_LOG_PREDEFINIDO) -> logging.Logger:\n    '''\n    Devuelve un objeto logger por un nombre, en caso de que no exista lo crea\n    '''\n    if nombre in _loggers:\n        return _loggers[nombre]",
+        "detail": "app.utils.logger_util",
+        "documentation": {}
+    },
+    {
+        "label": "_NOMBRE_LOG_PREDEFINIDO",
+        "kind": 5,
+        "importPath": "app.utils.logger_util",
+        "description": "app.utils.logger_util",
+        "peekOfCode": "_NOMBRE_LOG_PREDEFINIDO = APP_NAME\n_NIVEL_LOGS = conf.get(Vars.LOG_LEVEL)\n_loggers = {}\ndef get_logger(nombre=_NOMBRE_LOG_PREDEFINIDO) -> logging.Logger:\n    '''\n    Devuelve un objeto logger por un nombre, en caso de que no exista lo crea\n    '''\n    if nombre in _loggers:\n        return _loggers[nombre]\n    logger = logging.getLogger(nombre)",
+        "detail": "app.utils.logger_util",
+        "documentation": {}
+    },
+    {
+        "label": "_NIVEL_LOGS",
+        "kind": 5,
+        "importPath": "app.utils.logger_util",
+        "description": "app.utils.logger_util",
+        "peekOfCode": "_NIVEL_LOGS = conf.get(Vars.LOG_LEVEL)\n_loggers = {}\ndef get_logger(nombre=_NOMBRE_LOG_PREDEFINIDO) -> logging.Logger:\n    '''\n    Devuelve un objeto logger por un nombre, en caso de que no exista lo crea\n    '''\n    if nombre in _loggers:\n        return _loggers[nombre]\n    logger = logging.getLogger(nombre)\n    formatter = logging.Formatter(",
+        "detail": "app.utils.logger_util",
+        "documentation": {}
+    },
+    {
+        "label": "_loggers",
+        "kind": 5,
+        "importPath": "app.utils.logger_util",
+        "description": "app.utils.logger_util",
+        "peekOfCode": "_loggers = {}\ndef get_logger(nombre=_NOMBRE_LOG_PREDEFINIDO) -> logging.Logger:\n    '''\n    Devuelve un objeto logger por un nombre, en caso de que no exista lo crea\n    '''\n    if nombre in _loggers:\n        return _loggers[nombre]\n    logger = logging.getLogger(nombre)\n    formatter = logging.Formatter(\n        '%(asctime)s - %(name)s (%(process)d) - %(levelname)s - %(message)s')",
+        "detail": "app.utils.logger_util",
+        "documentation": {}
+    },
+    {
+        "label": "get_token",
+        "kind": 2,
+        "importPath": "app.utils.rest_util",
+        "description": "app.utils.rest_util",
+        "peekOfCode": "def get_token(request):\n    token = request.environ.get(\"HTTP_AUTHORIZATION\")\n    if \"Bearer \" not in token:\n        raise InvalidTokenException()\n    token = token.replace(\"Bearer \",\"\")\n    return token\ndef get_uri(request):\n    host = request.host_url\n    base_path = request.url\n    return base_path.replace(host[:-1]+conf.get(Vars.API_BASE_PATH),\"\")",
+        "detail": "app.utils.rest_util",
+        "documentation": {}
+    },
+    {
+        "label": "get_uri",
+        "kind": 2,
+        "importPath": "app.utils.rest_util",
+        "description": "app.utils.rest_util",
+        "peekOfCode": "def get_uri(request):\n    host = request.host_url\n    base_path = request.url\n    return base_path.replace(host[:-1]+conf.get(Vars.API_BASE_PATH),\"\")\ndef get_body(request:Request):\n    return request.json()\ndef wrap_rest_response(ok: int = 200, error: int = 500, logger=get_logger(__name__)):\n    def decorator(func):\n        @wraps(func)\n        def wrapper(*args, **kwargs):",
+        "detail": "app.utils.rest_util",
+        "documentation": {}
+    },
+    {
+        "label": "get_body",
+        "kind": 2,
+        "importPath": "app.utils.rest_util",
+        "description": "app.utils.rest_util",
+        "peekOfCode": "def get_body(request:Request):\n    return request.json()\ndef wrap_rest_response(ok: int = 200, error: int = 500, logger=get_logger(__name__)):\n    def decorator(func):\n        @wraps(func)\n        def wrapper(*args, **kwargs):\n            http_status = ok\n            result = {}\n            try:\n                result = func(*args, **kwargs)",
+        "detail": "app.utils.rest_util",
+        "documentation": {}
+    },
+    {
+        "label": "wrap_rest_response",
+        "kind": 2,
+        "importPath": "app.utils.rest_util",
+        "description": "app.utils.rest_util",
+        "peekOfCode": "def wrap_rest_response(ok: int = 200, error: int = 500, logger=get_logger(__name__)):\n    def decorator(func):\n        @wraps(func)\n        def wrapper(*args, **kwargs):\n            http_status = ok\n            result = {}\n            try:\n                result = func(*args, **kwargs)\n            except AppException as ae:\n                logger.exception(ae)",
+        "detail": "app.utils.rest_util",
+        "documentation": {}
+    },
+    {
+        "label": "get_valid_rest_object",
+        "kind": 2,
+        "importPath": "app.utils.rest_util",
+        "description": "app.utils.rest_util",
+        "peekOfCode": "def get_valid_rest_object(some_result):\n    if not some_result:\n        return some_result\n    elif isinstance(some_result,list):\n        return [get_valid_rest_object(e) for e in some_result]\n    elif isinstance(some_result,dict):\n        return some_result\n    elif hasattr(some_result.__class__, 'to_dict') and callable(getattr(some_result.__class__, 'to_dict')):\n        return some_result.to_dict()\n    else:",
+        "detail": "app.utils.rest_util",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = FastAPI()\nregistrar_blue_prints(app, 'app/routes')\n@app.exception_handler(AppException)\nasync def unicorn_exception_handler(request: Request, exc: AppException):\n    return JSONResponse(\n        status_code=exc.codigo,\n        content=exc.to_dict(),\n    )\nif __name__ == '__main__':\n    possible_ports = [int(conf.get(Vars.API_PORT)), 80, 5000]",
+        "detail": "main",
+        "documentation": {}
+    }
+]
